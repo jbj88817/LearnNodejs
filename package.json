@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-test-app",
+  "version": "1.0.0",
+  "description": "NodeJs Test App",
+  "main": "app69.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbj88817/LearnNodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jbj88817/LearnNodejs/issues"
+  },
+  "homepage": "https://github.com/jbj88817/LearnNodejs#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "moment": "^2.11.2"
+  },
+  "devDependencies": {
+    "jasmine-node": "^1.14.5"
+  }
+}

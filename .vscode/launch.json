@@ -5,7 +5,7 @@
 			"name": "Launch",
 			"type": "node",
 			"request": "launch",
-			"program": "app64.js",
+			"program": "app75.js",
 			"stopOnEntry": false,
 			"args": [],
 			"cwd": ".",
