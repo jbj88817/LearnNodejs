@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/jbj88817/LearnNodejs#readme",
   "dependencies": {
+    "body-parser": "^1.14.2",
+    "ejs": "^2.4.1",
     "express": "^4.13.4",
     "moment": "^2.11.2"
   },
